@@ -1,0 +1,15 @@
+acquisition_frame_rate: 15
+acquisition_frame_rate_enable: false
+enable_trigger: Off
+trigger_selector: FrameStart
+trigger_activation_mode: RisingEdge
+trigger_source: Line3
+trigger_overlap_mode: ReadOut
+exposure_auto: On
+exposure_time: 300
+auto_exposure_time_upper_limit: 300000
+auto_gain: On
+image_format_color_coding: BayerRG16
+auto_white_balance: Continuous
+reverse_x: False
+reverse_y: False
